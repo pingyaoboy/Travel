@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Travel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- music player -->
+    <string name="player" >播放</string>
+</resources>
