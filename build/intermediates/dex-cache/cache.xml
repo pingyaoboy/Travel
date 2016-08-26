@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pyboy/studio/Travel/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="91a1b1aabf740a6f64c2f73f5b0dc6611779ac8b">
+        <dex dex="/Users/pyboy/studio/Travel/app/build/intermediates/pre-dexed/debug/android-support-v4_99c15c4851df668556b44380db57df9568a1df9b.jar" />
+    </item>
+    <item
+        jar="/Users/pyboy/studio/Travel/app/libs/pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/pyboy/studio/Travel/app/build/intermediates/pre-dexed/debug/pinyin4j-2.5.0_1d8ffe15a6bb50555151e86722607868ca23d70d.jar" />
+    </item>
+
+</items>
